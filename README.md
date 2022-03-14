@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning faster ways to learn anything
 - 🌱 I’m currently learning being more responsible with myself
 - 💞️ I’m looking to collaborate on moonshots
-- 📫 How to reach me : Mial me at yadav.abhinav16@gmail.com
+- 📫 How to reach me : Mail me at yadav.abhinav16@gmail.com
 
 <!---
 yadavabhinav16/yadavabhinav16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
